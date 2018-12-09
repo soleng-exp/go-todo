@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.1.2",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
-    "vue": "^2.5.13",
+    "vue": "^2.5.17",
     "vue-resource": "0.7.0"
   }
 }
